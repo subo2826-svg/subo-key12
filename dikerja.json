@@ -16,7 +16,7 @@
         "device_id": "f3eb59b93ea3aa4f",
         "key": "subo1",
         "expirydate": "31-12-2030",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "8b66d65364f",

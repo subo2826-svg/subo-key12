@@ -34,5 +34,17 @@
         "key": "sub;o",
         "expirydate": "15-06-2035",
         "Allowoffline": false
+    },,
+    {
+        "device_id": "hhhhhbv",
+        "key": "subo1hh2",
+        "expirydate": "31-12-2035",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "653mbh64f",
+        "key": "sub;o",
+        "expirydate": "15-06-2035",
+        "Allowoffline": false
     }
 ]

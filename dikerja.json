@@ -34,7 +34,7 @@
         "key": "subo1234",
         "expirydate": "15-06-2035",
         "Allowoffline": false
-    },,
+    },
     {
         "device_id": "9821a6c1fe4c1e8f",
         "key": "subo1122",
@@ -44,6 +44,18 @@
     {
         "device_id": "653mbh64f",
         "key": "sub;o",
+        "expirydate": "15-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "hdhh",
+        "key": "subo1122bsb",
+        "expirydate": "31-12-2035",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "653mbbsbdh64f",
+        "key": "subo",
         "expirydate": "15-06-2035",
         "Allowoffline": false
     }
